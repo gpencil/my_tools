@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+coverage/
+
+# Tool caches
+.vite/
+*.tsbuildinfo
+
+# Local environment
+.env
+.env.*
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
